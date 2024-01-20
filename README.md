@@ -75,5 +75,10 @@
 
 <h4 align="center">
   <a href="https://github.com/BeeTillman?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+
+  <p>Bench: 235lbs</p>
+  <p>Power Clean: 315lbs</p>
+  <p>Squat: 275lbs</p>
+  <p>Deadlift: 380lbs</p>
 </h4>
 
